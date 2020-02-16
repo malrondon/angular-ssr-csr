@@ -1,0 +1,13 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../out-tsc/app",
+    "baseUrl": "./",
+    "types": ["node"],
+    "typeRoots": [ "../node_modules/@types" ]
+  },
+  "files": [
+    "main.browser.ts",
+    "polyfills.ts"
+  ]
+}
