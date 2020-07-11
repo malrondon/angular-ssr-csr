@@ -30,14 +30,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/org-rondon/angular-ssr-csr.git"
+    "url": "git+https://github.com/malrondon/angular-ssr-csr.git"
   },
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/org-rondon/angular-ssr-csr/issues"
+    "url": "https://github.com/malrondon/angular-ssr-csr/issues"
   },
-  "homepage": "https://github.com/org-rondon/angular-ssr-csr#readme",
+  "homepage": "https://github.com/malrondon/angular-ssr-csr#readme",
   "dependencies": {
     "@angular/animations": "9.0.0",
     "@angular/common": "9.0.0",
