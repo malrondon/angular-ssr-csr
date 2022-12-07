@@ -56,7 +56,7 @@
     "@gorniv/ngx-universal": "2.2.2",
     "cookie-parser": "1.4.4",
     "core-js": "3.6.4",
-    "express": "4.15.2",
+    "express": "4.17.3",
     "node-cache": "5.1.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.4",
